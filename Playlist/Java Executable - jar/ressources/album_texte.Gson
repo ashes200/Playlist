@@ -1,0 +1,94 @@
+{
+  "mesPlaylist": [
+    {
+      "nom": "favoris",
+      "playlist": [
+        {
+          "titre": "Higher",
+          "duree": 215
+        },
+        {
+          "titre": "fils de joie",
+          "duree": 199
+        },
+        {
+          "titre": "Formidable",
+          "duree": 190
+        },
+        {
+          "titre": "mauvaise journee",
+          "duree": 190
+        },
+        {
+          "titre": "paradis",
+          "duree": 166
+        },
+        {
+          "titre": "Formidable",
+          "duree": 190
+        },
+        {
+          "titre": "Revolution",
+          "duree": 232
+        },
+        {
+          "titre": "Dreamin",
+          "duree": 199
+        },
+        {
+          "titre": "Ta fete",
+          "duree": 166
+        },
+        {
+          "titre": "Ta fete",
+          "duree": 166
+        }
+      ]
+    },
+    {
+      "nom": "les plus ecoutees",
+      "playlist": [
+        {
+          "titre": "mauvaise journee",
+          "duree": 190
+        },
+        {
+          "titre": "Reve bizzare",
+          "duree": 190
+        },
+        {
+          "titre": "Under the Pressure",
+          "duree": 207
+        },
+        {
+          "titre": "Revolution",
+          "duree": 232
+        },
+        {
+          "titre": "Chosen",
+          "duree": 190
+        },
+        {
+          "titre": "Higher",
+          "duree": 215
+        },
+        {
+          "titre": "declaration",
+          "duree": 166
+        },
+        {
+          "titre": "The Fear",
+          "duree": 185
+        },
+        {
+          "titre": "papaoutai",
+          "duree": 190
+        },
+        {
+          "titre": "Chosen",
+          "duree": 190
+        }
+      ]
+    }
+  ]
+}

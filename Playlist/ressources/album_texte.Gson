@@ -1,0 +1,115 @@
+{
+  "mesPlaylist": [
+    {
+      "nom": "favoris",
+      "playlist": [
+        {
+          "titre": "Uramaki",
+          "duree": 178
+        },
+        {
+          "titre": "mauvaise journee",
+          "duree": 190
+        },
+        {
+          "titre": "pas vraiment",
+          "duree": 190
+        },
+        {
+          "titre": "Soldi",
+          "duree": 178
+        },
+        {
+          "titre": "La famille la famille",
+          "duree": 166
+        },
+        {
+          "titre": "declaration",
+          "duree": 166
+        },
+        {
+          "titre": "Formidable",
+          "duree": 190
+        },
+        {
+          "titre": "mauvaise journee",
+          "duree": 190
+        },
+        {
+          "titre": "Glory",
+          "duree": 166
+        },
+        {
+          "titre": "Remo",
+          "duree": 178
+        }
+      ]
+    },
+    {
+      "nom": "les plus ecoutees",
+      "playlist": [
+        {
+          "titre": "La pluie",
+          "duree": 166
+        },
+        {
+          "titre": "pas vraiment",
+          "duree": 190
+        },
+        {
+          "titre": "papaoutai",
+          "duree": 190
+        },
+        {
+          "titre": "Legend",
+          "duree": 189
+        },
+        {
+          "titre": "Ta fete",
+          "duree": 166
+        },
+        {
+          "titre": "declaration",
+          "duree": 166
+        },
+        {
+          "titre": "Tous les meme",
+          "duree": 166
+        },
+        {
+          "titre": "Chosen",
+          "duree": 190
+        },
+        {
+          "titre": "Ta fete",
+          "duree": 166
+        },
+        {
+          "titre": "mauvaise journee",
+          "duree": 190
+        }
+      ]
+    },
+    {
+      "nom": "null",
+      "playlist": [
+        {
+          "titre": "Sabbie Mobili",
+          "duree": 178
+        },
+        {
+          "titre": "Remo",
+          "duree": 178
+        },
+        {
+          "titre": "Uramaki",
+          "duree": 178
+        },
+        {
+          "titre": "Soldi",
+          "duree": 178
+        }
+      ]
+    }
+  ]
+}
